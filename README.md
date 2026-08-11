@@ -165,11 +165,11 @@ Provides detailed product and regional insights.
 
 ### Executive Overview
 
-![Executive Overview](dashboard/page1_executive_overview.png)
+![Executive Overview](dashboard/page1_executive_overview.jpeg)
 
 ### Product & Regional Analysis
 
-![Product & Regional Analysis](dashboard/page2_product_regional_analysis.png)
+![Product & Regional Analysis](dashboard/page2_product_regional_analysis.jpeg)
 
 ## Data Model
 
