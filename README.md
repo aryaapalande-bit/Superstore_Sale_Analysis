@@ -178,7 +178,7 @@ The Power BI model connects the related datasets through:
 - **Orders ↔ Returns** — Order ID
 - **Orders ↔ People** — Region
 
-![Power BI Data Model](dashboard/data_model.png)
+![Power BI Data Model](dashboard/data_model.jpeg)
 
 ## Key Business Questions
 
